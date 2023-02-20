@@ -1,0 +1,3 @@
+Merhaba,
+java'da try-with-resources
+kullanimini tekrar ediyoruz.
